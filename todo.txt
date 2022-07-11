@@ -3,3 +3,5 @@ Task list:
 2. Take a bath
 3. Design
 4. Work on the project
+5. Study Books
+6. Practice code
